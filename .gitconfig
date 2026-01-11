@@ -3,3 +3,7 @@
 [user]
 	name = Shawn Kearney
 	email = shawnpk29@me.com
+[fetch]
+	prune = true
+[init]
+	defaultBranch = main
